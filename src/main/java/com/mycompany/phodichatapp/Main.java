@@ -45,7 +45,7 @@ public class Main {
             System.out.print("Enter Password: ");
             String loginPassWord = inputDevice.nextLine();
 
-            // Check login and return status
+            // Check the login and return status
             boolean isLoggedIn = loginSystem.loginUser(loginUserName, loginPassWord);
             String loginStatus = loginSystem.returnLoginStatus(isLoggedIn);
             
