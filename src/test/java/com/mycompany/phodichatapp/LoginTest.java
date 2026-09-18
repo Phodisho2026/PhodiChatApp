@@ -1,3 +1,9 @@
+//Filename:LoginTest.java
+//Written by: Phodisho Mongwai
+//Student number: 10523203
+//Date: 18-09-2026
+//Purpose: JUnit tests to verify the login methods.
+
 package com.mycompany.phodichatapp;
 
 import org.junit.jupiter.api.Test;
