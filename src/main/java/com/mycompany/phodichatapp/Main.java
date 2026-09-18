@@ -1,3 +1,9 @@
+//Filename: Main.java
+//Written by: Phodisho Mongwai
+//Student number: 10523203
+//Date: 18-09-2026
+//Purpose: Console application to test the login class.
+
 package com.mycompany.phodichatapp;
 
 import java.util.Scanner;
