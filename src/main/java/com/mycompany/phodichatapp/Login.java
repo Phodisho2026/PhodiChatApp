@@ -1,3 +1,9 @@
+//Filename:Login.java
+//Written by: Phodisho Mongwai
+//Student number: 10523203
+//Date: 18-09-2026
+//Purpose: This class handles registration and login logic.
+
 package com.mycompany.phodichatapp;
 
 public class Login {
