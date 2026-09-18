@@ -7,7 +7,7 @@
 package com.mycompany.phodichatapp;
 
 public class Login {
-    // Declarations to store infomation
+    // Declarations to save infomation
     private String userName;
     private String password;
     private String cellphoneNum;
