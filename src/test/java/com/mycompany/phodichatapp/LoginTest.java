@@ -111,4 +111,4 @@ public class LoginTest {
         testCellPhoneIncorrectlyFormattedAssertFalse() {
         assertFalse(login.checkCellPhoneNumber("08966553"));
     }
-}
+} 
